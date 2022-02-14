@@ -1,0 +1,12 @@
+타임리프 = http://www.thymeleaf.org
+
+1. java에서 프론트엔드 데이터 전달 방법
+
+	  model명  => th:text="${모델명}"
+	Controller => 프론트 엔드 
+	1. <html xmlns:th="http://www.thymeleaf.org"> 선언 
+	2. th:text="${msg}"
+
+ 
+
+	   
